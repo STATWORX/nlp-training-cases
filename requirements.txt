@@ -1,0 +1,16 @@
+pytorch
+transformers
+scikit-learn
+matplotlib
+pandas
+numpy
+datasets
+ipywidgets
+torchtext
+pytorch-lightning
+jupyter
+jupyter_contrib_nbextensions
+nltk
+notebook
+nb_conda_kernels
+spacy
